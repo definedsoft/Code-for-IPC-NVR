@@ -1,4 +1,4 @@
-# IPC/NVR Pythonサンプルコード
+# IPC/NVR Pythonコード
 
 - ConnectionCheck.py : 疎通確認
 
