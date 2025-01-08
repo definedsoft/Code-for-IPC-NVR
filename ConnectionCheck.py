@@ -1,8 +1,6 @@
 # IPC CGI APIコード
 # 機能：疎通確認
 
-
-
 import subprocess
 
 # 目標IP
