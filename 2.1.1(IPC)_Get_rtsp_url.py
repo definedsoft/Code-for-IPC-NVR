@@ -1,7 +1,7 @@
 # RTSP の URL を取得し、この URL を使用して RTSP ライブ ビデオを取得します。
 import requests
 
-# カメラの IP アドレス
+# カメラの IP アドレス、ユーザー名、パスワード
 camera_ip = "192.168.1.109"
 camera_username = "admin"
 camera_password = "Admin123"

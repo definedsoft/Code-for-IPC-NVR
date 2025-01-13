@@ -6,6 +6,7 @@ camera_ip = "192.168.1.109"
 
 url = f"http://{camera_ip}/cgi-bin/param.cgi?action=get&type=deviceInfo"
 
+# デバイス情報を取得する時、認証は不要
 response = requests.request("GET", url, timeout=3)
 
 print(response.text)
