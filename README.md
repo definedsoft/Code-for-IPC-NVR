@@ -72,3 +72,24 @@
 
 ---
 
+- 2.2.1(NVR)Recording_Query : 録画検索する
+
+- 2.2.2(NVR)Recording Playback : 録画をダウンロードする
+
+- 2.4.1.1(NVR)Get_current_alarm_status : 現在のアラームステータスを取得する
+
+- 2.6.1.1(NVR)Get_device_information : デバイス情報を取得する
+
+- 2.6.1.2.1(NVR)Get_local_network_parameters : ローカルネットワークパラメータを取得する
+
+- 2.6.1.4.1(NVR)Get_device_port_parameters : ポートリストを取得する
+
+- 2.6.1.5.1(NVR)Get_channel_device_information : チャネル情報を取得する
+
+- 2.6.1.7.1(NVR)Get_device_time : デバイスの時刻を取得する
+
+- 2.6.1.8.2(NVR)Get_device_timezone_parameters : デバイスのタイムゾーンパラメータを取得する
+
+- 2.6.11.14.1(NVR)Get_P2P_status : P2Pステータスを取得する
+
+- 2.10.2.1(NVR)Get_record_policy : 録画ポリシーの取得する
