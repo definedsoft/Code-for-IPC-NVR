@@ -56,4 +56,19 @@
 ---
 - 2.8.1.1(IPC)Get_mode_parameters : (フロントエンド)モードパラメータの取得
 
-- 
+- 2.8.3.1(IPC)Get_image_parameters : (フロントエンド)画像パラメータを取得する
+
+- 2.8.4.1(IPC)Get_day_and_night_parameters : (フロントエンド)昼と夜の設定を取得する
+
+- 2.8.5.1(IPC)Get_exposure_parameters : (フロントエンド)露出パラメータを取得する
+
+- 2.8.8.1(IPC)Get_the_scene_mode : (フロントエンド)シーンモードを取得する
+
+- 2.8.9.1(IPC)Get_white_balance_parameters : (フロントエンド)ホワイトバランスパラメータを取得する
+
+- 2.8.12.1(IPC)Get_Noise_Reduction_parameters : (フロントエンド)ノイズ低減パラメータを取得する
+
+- 2.8.16.1(IPC)Get_white_balance_parameters : (フロントエンド)ホワイトバランスパラメータを取得する
+
+---
+
